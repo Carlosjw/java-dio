@@ -1,0 +1,60 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Interacao",
+            "request": "launch",
+            "mainClass": "Interacao",
+            "projectName": "sistema-smart-tv_950c343e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "sistema-smart-tv_950c343e"
+        },
+        {
+            "type": "java",
+            "name": "Documentacao",
+            "request": "launch",
+            "mainClass": "Documentacao",
+            "projectName": "sistema-smart-tv_950c343e"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "sistema-smart-tv_950c343e"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "sistema-smart-tv_950c343e"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Carlos",
+                "Lima",
+                "37",
+                "1.8"
+            ]
+        }
+    ]
+}
